@@ -201,10 +201,10 @@ packages:
     dependency: transitive
     description:
       name: http
-      sha256: e7e8bfbe0a53d654860a5220b879e28beb174e3b6cc5fcc743a84f8f90923e70
+      sha256: "411262398b34f52b9baac4860a1aa6e4779037ba9289c19b4cd16928efa97a2b"
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.12.1"
+    version: "0.12.2"
   http_parser:
     dependency: transitive
     description:
